@@ -1,0 +1,83 @@
+*{
+    background-color: beige;
+    background-attachment: fixed;
+}
+.nav1{
+    height: 70px;
+    width: 100%;
+    /* position: absolute;
+    left: -10; */
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    height: 45px;
+    width: 50px;
+
+}
+.location svg{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 110px;
+    top: 15px;
+}
+.location input{
+    height: 20px;
+    position: absolute;
+    top: 22px;
+    position: absolute;
+    left: 170px;
+}
+.search-ip{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.search-ip input{
+    height: 40px;
+    width: 400px;
+}
+.search-ip svg{
+    height: 40px;
+    width: 50px;
+    
+  
+}
+.login{
+    display: flex;
+    justify-content: space-between;
+     height: 70px;
+    /*width: 100px; */
+    /* background-color: yellowgreen; */
+}
+.login p{
+    height: 70px;
+    display:flex ;
+    justify-content: space-between;
+    background-color: yellowgreen;
+}
+.retord{
+    height: 60px;
+    width: 60px;
+    display: flex;
+}
+.cart svg{
+    height: 50px;
+    width: 50px;
+
+}
+.nav2{
+   height: 70px;
+   width: 100%;
+   /* position: absolute;
+   left: -10; */
+   background-color: rgb(64, 68, 60);
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
